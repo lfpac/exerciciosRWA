@@ -1,0 +1,17 @@
+{
+    "userSucess": {
+      "firstName":"Felipe",
+      "lastName":"Pacheco",
+      "username": "Admin",
+      "password": "admin123",
+      "confirmPassword": "admin123"
+
+    },
+    "userFail": {
+      "firstName":"4567",
+      "lastName":"1345",
+      "username": "1234",
+      "password": "1234",
+      "confirmPassword": "3456"
+    }
+}
