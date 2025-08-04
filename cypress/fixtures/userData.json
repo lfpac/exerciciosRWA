@@ -1,7 +1,7 @@
 {
     "userSucess": {
       "firstName":"Felipe",
-      "lastName":"Pacheco",
+      "lastName":"Pacheco",                        
       "username": "Admin",
       "password": "admin123",
       "confirmPassword": "admin123"
@@ -13,5 +13,12 @@
       "username": "1234",
       "password": "1234",
       "confirmPassword": "3456"
+    },
+    "userTransaction": {
+      "firstName":"Felipe",
+      "lastName":"Pacheco",                        
+      "username": "admin",
+      "password": "admin123",
+      "confirmPassword": "admin123"
     }
 }
